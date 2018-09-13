@@ -1,5 +1,5 @@
 # laravelurlcrawler
-This is a simple web site crawler made by laravel 5.7 
+This is a simple web site crawler using laravel 5.7 
 
 # Installation
 1 - clone the project 
